@@ -1,4 +1,4 @@
-nstall PXE Require Package
+###Install PXE Require Package
 yum -y install syslinux tftp tftp-server dhcp httpd vim openssh-clients
 
 #### Create Directory
