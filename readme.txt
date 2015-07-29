@@ -6,4 +6,4 @@ Git tracks changes.
 This is a profile!
 
 Create a new branch is quick and simple.
-
+add merge!
